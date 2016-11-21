@@ -12,7 +12,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
-            android:name="news.agoda.com.sample.MainActivity"
+            android:name="news.agoda.com.sample.news.MainActivity"
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name">
             <intent-filter>
@@ -22,7 +22,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DetailViewActivity"
+            android:name=".newsdetail.DetailViewActivity"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
     </application>
