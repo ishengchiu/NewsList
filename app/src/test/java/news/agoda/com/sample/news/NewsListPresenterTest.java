@@ -19,10 +19,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import news.agoda.com.sample.data.NewsEntity;
-import news.agoda.com.sample.data.NewsListLoader;
-import news.agoda.com.sample.data.NewsRepository;
-import news.agoda.com.sample.news.NewsContract;
-import news.agoda.com.sample.news.NewsListPresenter;
 import news.agoda.com.sample.util.NetworkUtil;
 
 import static org.hamcrest.core.Is.is;
